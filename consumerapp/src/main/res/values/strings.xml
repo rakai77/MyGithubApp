@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">MyGithub</string>
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+    <string name="find_username">Find Username</string>
+    <string name="language">Language</string>
+    <string name="img_content_description" translatable="false">Splash Logo</string>
+    <string name="github" translatable="false">GITHUB USER</string>
+    <string name="url" translatable="false">Url</string>
+
+
+    <string name="notification_settings" translatable="false">Notification Settings</string>
+    <string name="favorite" translatable="false">Favorite</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="add_favorite" translatable="false">"Added Favorite"</string>
+    <string name="delete_favorite" translatable="false">"Deleted Favorite"</string>
+    <string name="empty_favorite" translatable="false">Empty</string>
+    <string name="reminder_setting" translatable="false">Reminder Setting</string>
+    <string name="daily_reminder" translatable="false">Daily Reminder</string>
+    <string name="daily_message" translatable="false">Find new favorite</string>
+
+    <string name="set_daily_reminder" translatable="false">Set Daily Reminder</string>
+
+</resources>
